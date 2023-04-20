@@ -15,8 +15,8 @@
 ## Kết quả khi thực hiện chương trình
 ![kết quả](https://github.com/huyvu15/Random_News/blob/main/results.png)
 ## Các chức năng của chương trình
-`Xem`: chọn và xem bài báo đó trực tuyến 
+`Xem:` Chức năng này cho phép người dùng xem bài báo đang được hiển thị trực tuyến. Bằng cách sử dụng nút này, người dùng có thể đọc bài báo chi tiết và xem các hình ảnh liên quan đến nó.
 
-`Next`: bỏ qua  
+`Next:` Chức năng này cho phép người dùng bỏ qua bài báo hiện tại và chuyển đến bài báo tiếp theo. Bằng cách sử dụng nút này, người dùng có thể dễ dàng tìm kiếm và khám phá các bài báo khác nhau.
 
-`Exit`: Thoát chương trình
+`Exit:` Chức năng này cho phép người dùng thoát khỏi chương trình và trở về màn hình chính của máy tính. Bằng cách sử dụng nút này, người dùng có thể kết thúc phiên đọc tin tức và tiếp tục công việc khác.
