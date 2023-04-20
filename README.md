@@ -14,3 +14,9 @@
 ![2](https://github.com/huyvu15/Random_News/blob/main/photo_ran_news.png)
 ## Kết quả khi thực hiện chương trình
 ![kết quả](https://github.com/huyvu15/Random_News/blob/main/results.png)
+## Các chức năng của chương trình
+`Xem`: chọn và xem bài báo đó trực tuyến 
+
+`Next`: bỏ qua  
+
+`Exit`: Thoát chương trình
