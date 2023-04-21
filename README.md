@@ -20,3 +20,5 @@
 `Next:` Chức năng này cho phép người dùng bỏ qua bài báo hiện tại và chuyển đến bài báo tiếp theo. Bằng cách sử dụng nút này, người dùng có thể dễ dàng tìm kiếm và khám phá các bài báo khác nhau.
 
 `Exit:` Chức năng này cho phép người dùng thoát khỏi chương trình và trở về màn hình chính của máy tính. Bằng cách sử dụng nút này, người dùng có thể kết thúc phiên đọc tin tức và tiếp tục công việc khác.
+
+## Phát triển GUI
