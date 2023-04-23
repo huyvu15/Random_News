@@ -22,3 +22,4 @@
 `Exit:` Chức năng này cho phép người dùng thoát khỏi chương trình và trở về màn hình chính của máy tính. Bằng cách sử dụng nút này, người dùng có thể kết thúc phiên đọc tin tức và tiếp tục công việc khác.
 
 ## Phát triển GUI
+Chi tiết tham khảo lõi của bài toán: https://tek4.vn/khoa-hoc/lap-trinh-python-can-ban/final-project-1-xay-dung-he-de-nghi-don-gian-voi-python
